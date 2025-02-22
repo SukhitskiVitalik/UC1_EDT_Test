@@ -28,6 +28,10 @@
   </usedMobileApplicationFunctionalities>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <detailedInformation>
+    <key>ru</key>
+    <value>наш проект в локальном репозитории</value>
+  </detailedInformation>
   <logo/>
   <splash/>
   <dataLockControlMode>Managed</dataLockControlMode>
